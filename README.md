@@ -41,6 +41,8 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 
 ## References
 1. UTA Bootcamp curriculum, Module 17, instructor examples and student solved examples
+2. <a href=https://www.liquidweb.com/kb/what-are-regular-expressions>Liquid Web</a> Provided definitions of components in a regex.
+3. <a href=https://coding-boot-camp.github.io/full-stack/computer-science/regex-tutorial>Coding Bootcamp Regex Tutorial</a> Provided basic overview and understanding of regexes and their function.
 
 ## Links
 ### <a href="https://github.com/bmancuso3/regex-tutorial">GitHub Repository</a>
