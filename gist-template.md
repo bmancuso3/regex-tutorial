@@ -66,6 +66,8 @@ Flags are placed at the end of a regex outside of the ```\```.  They impose addi
 A character escape, identified by a ```\``` within the expression, is used to tell the regex to ignore the special properties of a character and to look for that character.  There are no character escapes in this regex, though!
 
 ### Conclusion
+One additional facet of this regex are the two ```+``` signs.  They signify that the preceding bracket expressions can be repeated, therefore there can be multiple instances of any character within the range specified. 
+
 The final note for this regex is that the ```@``` is reflected as itself within the expression.  If you have an email address, you can visualize this!
 
 We have gone over each portion of this match an email regex:
